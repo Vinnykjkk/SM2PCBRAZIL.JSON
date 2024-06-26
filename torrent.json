@@ -1,0 +1,21 @@
+{
+  "torrent": {
+    "magnetURI": "magnet:?xt=urn:btih:0451f7cf97ef23fa5518aee5e356e3636c6247ea&dn=Marvel%20SpiderMan%202%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337&tr=udp%3A%2F%2F9.rarbg.com%3A2710%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.wasabii.com.tw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cypherpunks.ru%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+    "name": "Marvel SpiderMan 2 [DODI Repack]",
+    "trackers": [
+      "udp://9.rarbg.to:2870/announce",
+      "udp://eddie4.nl:6969/announce",
+      "udp://thetracker.org:80/announce",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://tracker.opentrackr.org:1337",
+      "udp://tracker.zer0day.to:1337",
+      "udp://9.rarbg.com:2710/announce",
+      "udp://explodie.org:6969/announce",
+      "udp://tracker1.wasabii.com.tw:6969/announce",
+      "udp://tracker.torrent.eu.org:451/announce",
+      "udp://tracker.cypherpunks.ru:6969/announce",
+      "udp://p4p.arenabg.com:1337/announce"
+    ]
+  }
+}
